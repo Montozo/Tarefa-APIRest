@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: teste-spring
+
+server:
+  port: 8081
